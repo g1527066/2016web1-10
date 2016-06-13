@@ -5,37 +5,7 @@
   padding: 0;
 }
 
-@media screen and (max-width:640px){
-  body{
-    background-color: red;
-  }
-}
 
-@media screen and (min-width:641px)and (max-width:980px){
-  body{
-    background-color: green;
-  }
-}
-
-@media screen and  (min-width:981px){
-  body{
-    background-color: blue;
-  }
-}
-
-@media screen and (orientation:portrait){
-  body:after{
-    font-family: 'Noto Sans Javanese' ,sans-serif;
-    content:"縦長";
-  }
-}
-
-@media screen and (orientation:landscape){
-  body:after{
-        ffont-family: 'Noto Sans Javanese' ,sans-serif;
-    content:"横長";
-  }
-}
 
 body{
     background-color:gray;
