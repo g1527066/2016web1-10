@@ -48,7 +48,7 @@ footer{
   }
     section{
         width:calc(70%-20px);
-        float;left;
+        float:left;
     }
     #side{
         width:calc(1024px-718px);
